@@ -18,7 +18,7 @@ namespace Task3
         {
             int n = int.Parse(Console.ReadLine());
             int[] arr1 = new int[n];                                 //объявление первого массива
-            List<int> arr2 = new List<int>();                     //объявление пустого листа(типа контейнер в с++)
+            List<int> arr2 = new List<int>();                     //объявление пустого листа(типа контейнер в с#)
 
             string d = Console.ReadLine();
             string[] dd = d.Split(' ');
